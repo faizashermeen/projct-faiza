@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FaizaProject", "FaizaProject\FaizaProject.vdproj", "{E3D657AE-2A88-4158-BB24-82BC7C27C36C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project", "..\..\..\..\Desktop\faiza\project\project\project.csproj", "{2102065D-7D1F-4F6C-9421-BAABCF7BCE50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3D657AE-2A88-4158-BB24-82BC7C27C36C}.Debug|x86.ActiveCfg = Debug
+		{E3D657AE-2A88-4158-BB24-82BC7C27C36C}.Debug|x86.Build.0 = Debug
+		{E3D657AE-2A88-4158-BB24-82BC7C27C36C}.Release|x86.ActiveCfg = Release
+		{E3D657AE-2A88-4158-BB24-82BC7C27C36C}.Release|x86.Build.0 = Release
+		{2102065D-7D1F-4F6C-9421-BAABCF7BCE50}.Debug|x86.ActiveCfg = Debug|x86
+		{2102065D-7D1F-4F6C-9421-BAABCF7BCE50}.Debug|x86.Build.0 = Debug|x86
+		{2102065D-7D1F-4F6C-9421-BAABCF7BCE50}.Release|x86.ActiveCfg = Release|x86
+		{2102065D-7D1F-4F6C-9421-BAABCF7BCE50}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

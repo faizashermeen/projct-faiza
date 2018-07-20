@@ -1,0 +1,47 @@
+c:\users\naveed\documents\visual studio 2010\Projects\project\project\bin\Debug\project.exe
+c:\users\naveed\documents\visual studio 2010\Projects\project\project\bin\Debug\project.pdb
+c:\users\naveed\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.Form1.resources
+c:\users\naveed\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.Properties.Resources.resources
+c:\users\naveed\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.csproj.GenerateResource.Cache
+c:\users\naveed\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.exe
+c:\users\naveed\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.pdb
+c:\users\naveed\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.main.resources
+c:\users\naveed\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.vendor.resources
+c:\users\naveed\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.search.resources
+C:\Users\Naveed\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.products.resources
+C:\Users\Naveed\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.Psearch.resources
+C:\Users\Naveed\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.transaction.resources
+C:\Users\Naveed\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.challan.resources
+C:\Users\Naveed\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.invoice.resources
+C:\Users\home1\Documents\project\project\obj\x86\Debug\project.exe
+C:\Users\home1\Documents\project\project\obj\x86\Debug\project.pdb
+C:\Users\home1\Documents\project\project\bin\Debug\project.exe
+C:\Users\home1\Documents\project\project\bin\Debug\project.pdb
+C:\Users\home1\Documents\project\project\obj\x86\Debug\project.challan.resources
+C:\Users\home1\Documents\project\project\obj\x86\Debug\project.Form1.resources
+C:\Users\home1\Documents\project\project\obj\x86\Debug\project.invoice.resources
+C:\Users\home1\Documents\project\project\obj\x86\Debug\project.main.resources
+C:\Users\home1\Documents\project\project\obj\x86\Debug\project.products.resources
+C:\Users\home1\Documents\project\project\obj\x86\Debug\project.Properties.Resources.resources
+C:\Users\home1\Documents\project\project\obj\x86\Debug\project.Psearch.resources
+C:\Users\home1\Documents\project\project\obj\x86\Debug\project.search.resources
+C:\Users\home1\Documents\project\project\obj\x86\Debug\project.vendor.resources
+C:\Users\home1\Documents\project\project\obj\x86\Debug\project.transaction.resources
+C:\Users\home1\Documents\project\project\obj\x86\Debug\project.csproj.GenerateResource.Cache
+C:\Users\home1\Documents\project\project\obj\x86\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\home1\Documents\project\project\obj\x86\Debug\project.connection.resources
+C:\Users\home1\Desktop\FAIZA\project\project\obj\x86\Debug\project.exe
+C:\Users\home1\Desktop\FAIZA\project\project\obj\x86\Debug\project.pdb
+C:\Users\home1\Desktop\FAIZA\project\project\obj\x86\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\home1\Desktop\FAIZA\project\project\obj\x86\Debug\project.connection.resources
+C:\Users\home1\Desktop\FAIZA\project\project\obj\x86\Debug\project.Form1.resources
+C:\Users\home1\Desktop\FAIZA\project\project\obj\x86\Debug\project.main.resources
+C:\Users\home1\Desktop\FAIZA\project\project\obj\x86\Debug\project.products.resources
+C:\Users\home1\Desktop\FAIZA\project\project\obj\x86\Debug\project.Properties.Resources.resources
+C:\Users\home1\Desktop\FAIZA\project\project\obj\x86\Debug\project.Psearch.resources
+C:\Users\home1\Desktop\FAIZA\project\project\obj\x86\Debug\project.search.resources
+C:\Users\home1\Desktop\FAIZA\project\project\obj\x86\Debug\project.vendor.resources
+C:\Users\home1\Desktop\FAIZA\project\project\obj\x86\Debug\project.transaction.resources
+C:\Users\home1\Desktop\FAIZA\project\project\obj\x86\Debug\project.csproj.GenerateResource.Cache
+C:\Users\home1\Desktop\FAIZA\project\project\bin\Debug\project.exe
+C:\Users\home1\Desktop\FAIZA\project\project\bin\Debug\project.pdb
